@@ -4,6 +4,7 @@ for i in range(5):
        continue
    print("ini continue")
    print("angka sekarang:", i)
+   print("haloo")
    
 
 
